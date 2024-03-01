@@ -1,0 +1,31 @@
+
+			a{
+				text-decoration:none;
+				color:white;
+			}
+			#mymenu{
+				background-color:orange;
+			}
+			.navbar-toggler-icon{
+				color:white;
+			}
+			.nav-item{
+				color:#f5f5dc;
+			}
+			.nav-link{
+				color:#f5f5dc;
+			}
+			.nav-link active{
+				color:white;
+			}
+			.navlink a{
+				color:orange;
+			}
+			.dropdown-menu li a:hover{
+				background-color:yellow !important;
+			}
+			.bg-lightb{
+				color:#f5f5dc;
+				background-color:darkgrey;
+			}
+	
